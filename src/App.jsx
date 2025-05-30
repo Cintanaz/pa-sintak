@@ -1,4 +1,5 @@
 import "./App.css";
+import { BrowserRouter, Route, Routes } from "react-router-dom"
 import AboutSection from "./components/about-section";
 import CartSection from "./components/cart-section";
 import ContactsSection from "./components/contacts-section";
